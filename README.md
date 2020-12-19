@@ -1,4 +1,26 @@
 # wechat-miniprogram
+WeChat miniprogram, one of the miniprograms, is an application that can be used without downloading and installing, the development of which requires html5, css and javascript.
+#### Overview
+
+​		This miniprogram is developed for the IoT device that I designed before. The system is to collect data, save these data, visualize the data and perform some easy analysis.
+
+#### Receive the data
+
+​		This miniprogram receives data through BLE(Bluetooth Low Energy), such as jdy-16. It can receive data concerning temperature and other kinds of data about ones' sleeping.
+#### Save the data
+
+​		The received data will be saved in the cloud in order for further query and analysis.
+
+#### Visualization
+
+​		The APP can visualize the data immediately through wx-charts.
+
+
+#### News delivery
+
+​		The latest news will be shown.
+
+
 ### 微信小程序-功能介绍
 
 #### 总览
